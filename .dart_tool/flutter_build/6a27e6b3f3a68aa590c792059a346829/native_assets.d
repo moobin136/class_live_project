@@ -1,0 +1,1 @@
+ /home/moobin/Desktop/project/project/.dart_tool/flutter_build/6a27e6b3f3a68aa590c792059a346829/native_assets.yaml: 
