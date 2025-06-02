@@ -65,7 +65,7 @@ ButtonStyle cusomButtonStyle(
     foregroundColor: fgcolor ?? Colors.white,
     shape: RoundedRectangleBorder(
       borderRadius: BorderRadius.circular(curculerboder ?? 6),
-      side: BorderSide(width: width ?? 0),
+      side: BorderSide(width: width ?? 0.0),
     ),
     elevation: elvevation ?? 0,
   );
